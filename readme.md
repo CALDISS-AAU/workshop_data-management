@@ -2,7 +2,7 @@
 
 
 
-*Workshop for Digital Literacy 2020, October 22nd*
+*Workshop for Digital Literacy 2020, October 23rd*
 
 
 

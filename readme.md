@@ -28,6 +28,6 @@ The workshop is cloned and modified from [OpenRefine for Social Science Data](ht
 
 11.05-11.15: Break
 
-11.15-11.40: Data Management in R/Python - A brief glimpse
+11.15-11.40: Data Management in Python - A brief glimpse
 
 11.40-12.00: OpenRefine Exercises and Questions

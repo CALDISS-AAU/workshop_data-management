@@ -1,9 +1,9 @@
 idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 921018,6,9,Very good,10,2-3 times a month,178,64,Male,1990,[NA] Not applicable
-921026,8,8,Very good,NA,Several times a week,172,64,Female,1948, Socialdemokrat
+921026,8,8,Very good,NA,Several times a week,172,64,Female,1948, Socialdemokraterne
 921034,8,8,Good,NA,Every day,176,87,Male,1957," Venstre, Danmarks Liberale Parti"
 921076,8,8,Good,NA,Several times a week,162,70,Female,1958,[NA] No answer
-921084,5,8,Very good,NA,Every day,175,80,Male,1936, Socialdemokrat
+921084,5,8,Very good,NA,Every day,175,80,Male,1936, Socialdemokraterne
 921131,8,8,Fair,NA,Several times a week,160,70,Female,1940, Liberal Alliance
 921165,8,Extremely happy,Good,NA,Once a week,167,78,Female,1965," Venstre, Danmarks Liberale Parti"
 921181,9,9,Fair,NA,Once a week,194,102,Male,1956, Det Radikale Venstre
@@ -32,13 +32,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 921547,5,8,Good,NA,Once a month,164,68,Female,1999,[NA] Not applicable
 921563,4,8,Good,8,Several times a week,180,70,Male,1954, Socialdemokraterne
 921571,8,9,Fair,5,Less than once a month,163,92,Female,1978, Dansk Folkeparti
-921589,8,9,Very bad,NA,Never,142,50,Female,1931,Konservative
+921589,8,9,Very bad,NA,Never,142,50,Female,1931, Det Konservative Folkeparti
 921610,6,9,Good,NA,Less than once a month,170,60,Female,1978," Venstre, Danmarks Liberale Parti"
 921628,7,8,Fair,NA,2-3 times a month,162,78,Female,1941,[NA] Refusal
 921636,9,8,Very good,NA,2-3 times a month,185,68,Male,1996,[NA] Not applicable
 921652,7,7,Very good,NA,Once a week,172,65,Female,1987, Det Radikale Venstre
 921660,8,6,Very good,NA,2-3 times a month,173,76,Male,1941, Enhedslisten
-921678,4,Extremely happy,Very good,10,Every day,178,65,Male,1946, Socialdemokrat
+921678,4,Extremely happy,Very good,10,Every day,178,65,Male,1946, Socialdemokraterne
 921733,5,3,Fair,NA,Several times a week,182,95,Male,1960,[NA] Refusal
 921814,9,Extremely happy,Very good,NA,Never,196,90,Male,1972, Det Radikale Venstre
 921856,7,8,Very good,NA,2-3 times a month,158,79,Female,1969, Dansk Folkeparti
@@ -54,7 +54,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 921987,7,7,Very good,NA,Once a week,179,74,Male,1964,[NA] Not applicable
 922006,7,Extremely happy,Good,20,Less than once a month,167,106,Female,1964,[NA] Refusal
 922014,5,9,Fair,NA,2-3 times a month,161,50,Female,1991,[NA] Don't know
-922048,9,3,Bad,0,Every day,165,70,Male,1929, Socialdemokrat
+922048,9,3,Bad,0,Every day,165,70,Male,1929, Socialdemokraterne
 922056,6,8,Good,NA,Every day,153,58,Female,1973,[NA] Don't know
 922072,7,9,Very good,NA,Once a month,162,69,Female,1988,[NA] Refusal
 922080,5,6,Fair,20,Several times a week,184,87,Male,1975,[NA] Not applicable
@@ -68,7 +68,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 922268,9,Extremely happy,Very good,8,Several times a week,170,85,Female,1971," Venstre, Danmarks Liberale Parti"
 922276,9,Extremely happy,Bad,NA,Several times a week,171,50,Male,1952," Venstre, Danmarks Liberale Parti"
 922284,7,8,Good,6,Every day,176,77,Male,1947, Socialdemokraterne
-922292,8,Extremely happy,Very good,NA,Once a week,169,65,Female,1968, Socialdemokraterne
+922292,8,Extremely happy,Very good,NA,Once a week,169,65,Female,1968, Socialdemokrat
 922315,7,7,Very good,NA,Several times a week,183,88,Male,1942,[NA] Refusal
 922323,6,8,Fair,NA,Once a week,155,47,Female,1940,[NA] Not applicable
 922381,5,9,Good,NA,Less than once a month,177,75,Male,1969," Venstre, Danmarks Liberale Parti"
@@ -80,31 +80,31 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 922462,Most people can be trusted,Extremely happy,Very good,NA,Once a week,160,60,Female,1968, Socialdemokraterne
 922470,9,8,Fair,NA,Once a week,153,62,Female,1936, Socialdemokraterne
 922501,9,8,Very good,NA,Several times a week,165,64,Female,1970, Det Radikale Venstre
-922519,8,8,Good,NA,Several times a week,178,78,Male,1953, Socialdemokraterne
+922519,8,8,Good,NA,Several times a week,178,78,Male,1953, Socialdemokrat
 922535,8,9,Very good,NA,2-3 times a month,176,82,Male,1964, Dansk Folkeparti
 922543,2,Extremely happy,Fair,NA,Never,155,64,Female,1970, Socialdemokraterne
 922569,3,3,Fair,NA,Once a month,165,58,Female,1980, SF Socialistisk Folkeparti
-922577,6,9,Fair,NA,2-3 times a month,168,79,Male,1943, Socialdemokrat
+922577,6,9,Fair,NA,2-3 times a month,168,79,Male,1943, Socialdemokraterne
 922593,Most people can be trusted,8,Fair,15,Every day,163,50,Female,1968, Det Konservative Folkeparti
 922608,5,9,Very good,NA,Every day,182,80,Male,1982, Dansk Folkeparti
-922616,Most people can be trusted,9,Good,NA,2-3 times a month,180,92,Male,1953, Det Konservative Folkeparti
+922616,Most people can be trusted,9,Good,NA,2-3 times a month,180,92,Male,1953,Konservative
 922624,5,8,Fair,NA,Every day,163,54,Female,1954,[NA] Not applicable
 922640,8,9,Very good,NA,Once a week,172,68,Female,1946, Socialdemokraterne
 922658,5,Extremely happy,Good,NA,2-3 times a month,183,91,Male,1985, Dansk Folkeparti
-922690,4,9,Good,5,Less than once a month,170,47,Female,1993, Socialdemokrat
+922690,4,9,Good,5,Less than once a month,170,47,Female,1993, Socialdemokraterne
 922713,7,8,Good,NA,Several times a week,166,68,Female,1947,[NA] Not applicable
 922721,7,9,Good,NA,2-3 times a month,182,87,Male,1965, Socialdemokraterne
 922739,8,9,Very good,15,Several times a week,192,88,Male,1968, Det Radikale Venstre
 922763,5,7,Good,NA,Once a week,187,110,Male,1967,[NA] Not applicable
 922771,8,8,Good,NA,Never,165,63,Female,1990,[NA] Not applicable
-922789,7,8,Very good,NA,Once a month,178,102,Male,1949, Socialdemokrat
+922789,7,8,Very good,NA,Once a month,178,102,Male,1949, Socialdemokraterne
 922802,9,9,Good,NA,Less than once a month,164,64,Female,1990, Liberal Alliance
 922852,2,8,Fair,NA,2-3 times a month,188,92,Male,1986, Dansk Folkeparti
 922860,8,8,Very good,NA,2-3 times a month,159,64,Female,1993," Venstre, Danmarks Liberale Parti"
-922886,6,5,Very good,NA,Never,160,74,Female,1932, Socialdemokraterne
+922886,6,5,Very good,NA,Never,160,74,Female,1932, Socialdemokrat
 922894,8,Extremely happy,Very good,NA,Several times a week,168,60,Female,1964," Venstre, Danmarks Liberale Parti"
-922925,9,8,Very good,15,Once a week,186,66,Male,1986, Socialdemokrat
-922933,9,9,Fair,NA,Less than once a month,160,98,Female,1965, Socialdemokraterne
+922925,9,8,Very good,15,Once a week,186,66,Male,1986, Socialdemokraterne
+922933,9,9,Fair,NA,Less than once a month,160,98,Female,1965, Socialdemokrat
 922941,7,2,Bad,NA,Less than once a month,185,99,Male,1991,[NA] Not applicable
 922959,8,9,Good,1,Once a month,185,84,Male,1998,[NA] Not applicable
 922967,8,7,Fair,NA,Once a week,185,125,Male,1977, Liberal Alliance
@@ -113,13 +113,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 922991,8,9,Good,NA,2-3 times a month,166,60,Female,1934, Det Radikale Venstre
 923052,8,Extremely happy,Good,NA,2-3 times a month,157,62,Female,1931, Socialdemokraterne
 923060,8,9,Good,NA,Several times a week,174,76,Male,1940," Venstre, Danmarks Liberale Parti"
-923094,5,8,Fair,NA,2-3 times a month,165,58,Female,1986, Socialdemokraterne
+923094,5,8,Fair,NA,2-3 times a month,165,58,Female,1986, Socialdemokrat
 923109,8,9,Good,NA,Less than once a month,158,101,Female,1946,[NA] Not applicable
 923125,5,8,Very good,0,2-3 times a month,178,91,Male,1987, Dansk Folkeparti
 923133,9,8,Fair,3,Once a week,172,65,Female,1958, Enhedslisten
 923141,7,9,Very good,NA,Several times a week,186,75,Female,1970," Venstre, Danmarks Liberale Parti"
 923159,8,2,Fair,15,Several times a week,164,51.4,Female,1946, Enhedslisten
-923167,3,5,Fair,20,Less than once a month,184,120,Male,1971, Socialdemokrat
+923167,3,5,Fair,20,Less than once a month,184,120,Male,1971, Socialdemokraterne
 923183,5,9,Very good,10,Once a month,170,58,Female,1966," Venstre, Danmarks Liberale Parti"
 923191,8,Extremely happy,Very good,NA,2-3 times a month,170,60,Female,1953," Venstre, Danmarks Liberale Parti"
 923214,9,9,Very good,NA,Once a month,180,63,Male,1998,[NA] Not applicable
@@ -149,7 +149,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 923662,6,8,Very good,NA,2-3 times a month,163,62,Female,1976," Venstre, Danmarks Liberale Parti"
 923670,6,9,Good,NA,Once a month,176,72,Male,1979, Dansk Folkeparti
 923688,5,7,Fair,10,2-3 times a month,164,63,Female,1990, Dansk Folkeparti
-923701,5,9,Bad,NA,Once a week,173,59,Female,1980, Socialdemokrat
+923701,5,9,Bad,NA,Once a week,173,59,Female,1980, Socialdemokraterne
 923719,7,9,Good,NA,Once a week,178,85,Male,1975," Venstre, Danmarks Liberale Parti"
 923727,7,9,Good,3,2-3 times a month,160,54,Female,1940, Dansk Folkeparti
 923743,9,8,Very good,2,Once a week,183,80,Male,1988,[NA] Refusal
@@ -157,7 +157,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 923777,6,9,Very good,NA,2-3 times a month,160,55,Female,1975," Venstre, Danmarks Liberale Parti"
 923785,9,8,Very good,NA,2-3 times a month,155,60,Female,1960, Det Radikale Venstre
 923793,8,Extremely happy,Very good,NA,Once a week,179,80,Male,1950," Venstre, Danmarks Liberale Parti"
-923808,9,5,Very good,20,Every day,172,76,Male,1955, Socialdemokrat
+923808,9,5,Very good,20,Every day,172,76,Male,1955, Socialdemokraterne
 923816,7,9,Good,NA,2-3 times a month,165,70,Female,1999,[NA] Not applicable
 923824,9,8,Very good,NA,Once a week,170,65,Female,1964, Det Konservative Folkeparti
 923832,8,8,Very good,10,Several times a week,173,60,Male,1994,[NA] Not applicable
@@ -177,12 +177,12 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 924058,9,NA,Good,10,Once a month,164,68,Female,1949, Enhedslisten
 924066,5,6,Fair,NA,Every day,175,68,Male,1927," Venstre, Danmarks Liberale Parti"
 924074,8,9,Very good,NA,Several times a week,189,66,Male,1970," Venstre, Danmarks Liberale Parti"
-924090,9,5,Bad,NA,Every day,178,66,Male,1957, Socialdemokrat
+924090,9,5,Bad,NA,Every day,178,66,Male,1957, Socialdemokraterne
 924105,8,8,Good,15,Less than once a month,160,63,Female,1962, Det Radikale Venstre
 924113,8,8,Very good,NA,Several times a week,197,82,Male,1997,[NA] Not applicable
 924121,5,7,Very good,10,Never,188,85,Male,1990, Socialdemokrat
 924139,8,8,Good,NA,Once a month,174,79,Male,1951,[NA] Don't know
-924155,5,8,Good,NA,Every day,180,70,Male,1935, Det Konservative Folkeparti
+924155,5,8,Good,NA,Every day,180,70,Male,1935,Konservative
 924163,5,5,Good,NA,Once a week,169,63,Male,1971, Andet
 924171,3,7,Very good,10,Once a week,161,65,Female,1995,[NA] Not applicable
 924202,9,NA,Very bad,NA,Several times a week,170,74,Female,1970, Dansk Folkeparti
@@ -192,20 +192,20 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 924278,Most people can be trusted,Extremely happy,Good,20,Several times a week,167,54,Female,1934, Det Radikale Venstre
 924325,8,9,Good,NA,Once a month,175,78,Male,1971," Venstre, Danmarks Liberale Parti"
 924359,8,Extremely happy,Good,NA,Once a week,165,72,Male,1937, Dansk Folkeparti
-924367,5,8,Very good,NA,Once a week,178,85,Male,1943, Socialdemokraterne
+924367,5,8,Very good,NA,Once a week,178,85,Male,1943, Socialdemokrat
 924375,7,Extremely happy,Very good,NA,Once a month,178,76,Female,1976, Det Konservative Folkeparti
 924383,3,8,Bad,NA,Never,175,94,Male,1946, Andet
 924406,8,8,Good,NA,Never,168,65,Female,1934, Socialdemokraterne
-924430,7,8,Very good,NA,Once a week,178,69,Male,1957,Konservative
+924430,7,8,Very good,NA,Once a week,178,69,Male,1957, Det Konservative Folkeparti
 924464,7,9,Good,NA,Once a month,174,74,Female,1991, Enhedslisten
 924472,8,8,Very good,NA,Less than once a month,168,72,Female,1989, Det Radikale Venstre
 924480,8,Extremely happy,Very good,NA,Less than once a month,166,65,Female,1957, Socialdemokraterne
-924498,5,7,Very good,10,Several times a week,175,66,Male,1966, Socialdemokraterne
+924498,5,7,Very good,10,Several times a week,175,66,Male,1966, Socialdemokrat
 924503,7,8,Good,NA,Every day,181,81.5,Male,1932, Dansk Folkeparti
 924511,8,9,Fair,20,Less than once a month,157,59,Male,1957, SF Socialistisk Folkeparti
 924529,8,9,Good,NA,Several times a week,163,75,Female,1957, Socialdemokraterne
 924545,5,Extremely happy,Good,4,Never,172,75,Male,1979,[NA] Not applicable
-924561,8,Extremely happy,Very good,NA,Less than once a month,172,57,Female,1980, Socialdemokraterne
+924561,8,Extremely happy,Very good,NA,Less than once a month,172,57,Female,1980, Socialdemokrat
 924579,5,9,Bad,NA,Several times a week,165,66,Female,1945," Venstre, Danmarks Liberale Parti"
 924595,8,9,Good,NA,Several times a week,165,80,Female,1955, Enhedslisten
 924600,9,6,Fair,NA,Several times a week,188,91,Male,1955," Venstre, Danmarks Liberale Parti"
@@ -219,7 +219,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 924812,You can't be too careful,9,Very good,NA,Once a week,173,65,Female,1984, Det Konservative Folkeparti
 924846,8,9,Very good,NA,Less than once a month,168,68,Female,1972,[NA] Don't know
 924854,7,7,Good,NA,Never,173,87,Male,1966, Det Radikale Venstre
-924862,7,8,Very good,NA,Once a month,178,82,Male,1980, Socialdemokrat
+924862,7,8,Very good,NA,Once a month,178,82,Male,1980, Socialdemokraterne
 924901,Most people can be trusted,Extremely happy,Very good,NA,Several times a week,164,70,Female,1957, Det Radikale Venstre
 924943,7,9,Very good,NA,2-3 times a month,185,82,Male,1998,[NA] Not applicable
 924951,7,8,Very good,NA,Once a week,162,59,Female,1980," Venstre, Danmarks Liberale Parti"
@@ -233,16 +233,16 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 925096,6,9,Fair,NA,Less than once a month,179,78.6,Male,1996,[NA] Not applicable
 925101,6,5,Very good,9,Once a week,176,83,Male,1990,[NA] Not applicable
 925119,8,8,Very good,NA,Several times a week,168,57,Female,1971,[NA] Not applicable
-925127,5,9,Good,NA,Never,163,62,Female,1989, Socialdemokraterne
+925127,5,9,Good,NA,Never,163,62,Female,1989, Socialdemokrat
 925143,4,8,Fair,NA,2-3 times a month,168,66,Female,1956, Dansk Folkeparti
 925169,7,7,Fair,NA,2-3 times a month,174,64,Male,1933, Socialdemokraterne
-925177,5,Extremely happy,Good,13,Every day,164,74,Female,1957, Det Konservative Folkeparti
+925177,5,Extremely happy,Good,13,Every day,164,74,Female,1957,Konservative
 925185,9,9,Very good,NA,Once a month,167,54,Female,1974,Konservative
 925193,6,8,Fair,1,Once a week,189,75,Male,1996,[NA] Not applicable
 925216,6,9,Good,NA,Several times a week,168,102,Female,1958," Venstre, Danmarks Liberale Parti"
 925224,5,2,Fair,30,Less than once a month,173,58,Female,1967,[NA] Not applicable
 925232,5,9,Very good,NA,Once a month,168,50,Male,1998,[NA] Not applicable
-925240,8,9,Very good,NA,2-3 times a month,184,110,Male,1939, Socialdemokrat
+925240,8,9,Very good,NA,2-3 times a month,184,110,Male,1939, Socialdemokraterne
 925258,7,7,Good,NA,Once a week,179,99,Male,1967, SF Socialistisk Folkeparti
 925274,4,6,Bad,NA,2-3 times a month,174,89,Male,1955,[NA] Not applicable
 925282,6,7,Good,NA,Several times a week,163,59,Female,1938, Dansk Folkeparti
@@ -250,7 +250,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 925305,9,9,Good,NA,Several times a week,180,86,Male,1947, Socialdemokraterne
 925313,8,9,Good,NA,Once a week,187,135,Male,1955," Venstre, Danmarks Liberale Parti"
 925355,3,8,Fair,NA,Less than once a month,175,82,Male,1962, Enhedslisten
-925371,5,9,Fair,NA,NA,162,70,Female,1938, Socialdemokraterne
+925371,5,9,Fair,NA,NA,162,70,Female,1938, Socialdemokrat
 925397,8,9,Good,NA,Several times a week,188,99,Male,1964," Venstre, Danmarks Liberale Parti"
 925402,Most people can be trusted,8,Very good,NA,2-3 times a month,166,56,Female,1976, Kristendemokraterne
 925410,4,8,Bad,NA,Several times a week,156,60,Female,1969," Venstre, Danmarks Liberale Parti"
@@ -282,7 +282,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 926026,9,9,Very good,NA,Once a week,167,63,Female,1976, Det Radikale Venstre
 926034,7,Extremely happy,Very good,20,Once a week,173,72,Male,1956," Venstre, Danmarks Liberale Parti"
 926050,7,9,Very good,10,2-3 times a month,166,58,Female,1974,[NA] Not applicable
-926092,7,9,Fair,15,2-3 times a month,173,115,Female,1975, Socialdemokrat
+926092,7,9,Fair,15,2-3 times a month,173,115,Female,1975, Socialdemokraterne
 926107,5,8,Very good,NA,Less than once a month,187,84,Male,1999,[NA] Not applicable
 926115,9,9,Very good,NA,2-3 times a month,170,58,Female,1961, Det Radikale Venstre
 926131,8,9,Very good,NA,Less than once a month,176,79,Female,1982, Dansk Folkeparti
@@ -290,16 +290,16 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 926181,5,8,Very bad,NA,Every day,183,66,Male,1962," Venstre, Danmarks Liberale Parti"
 926199,5,7,Very good,NA,Once a month,175,66.1,Female,1979," Venstre, Danmarks Liberale Parti"
 926238,4,9,Very good,10,2-3 times a month,169,56,Female,1969," Venstre, Danmarks Liberale Parti"
-926246,5,5,Fair,NA,Never,150,53,Female,1969, Socialdemokrat
+926246,5,5,Fair,NA,Never,150,53,Female,1969, Socialdemokraterne
 926288,Most people can be trusted,9,Very good,NA,2-3 times a month,160,59,Female,1951, Socialdemokrat
 926319,7,8,Good,13,Never,172,62,Male,1957, Socialdemokraterne
 926343,2,Extremely happy,Very good,NA,Several times a week,189,80,Male,1987," Venstre, Danmarks Liberale Parti"
 926351,8,9,Very good,NA,Once a week,170,60,Female,1973," Venstre, Danmarks Liberale Parti"
 926377,5,8,Fair,20,Once a week,176,82,Male,1951, Dansk Folkeparti
 926385,8,8,Very good,NA,Once a week,176,73,Male,1943, Socialdemokraterne
-926408,7,8,Very good,NA,Once a week,172,76,Male,1945, Socialdemokrat
+926408,7,8,Very good,NA,Once a week,172,76,Male,1945, Socialdemokraterne
 926458,8,7,Very good,15,Once a week,172,77,Male,1986, Dansk Folkeparti
-926513,7,9,Good,NA,Once a week,159,72,Female,1948, Socialdemokraterne
+926513,7,9,Good,NA,Once a week,159,72,Female,1948, Socialdemokrat
 926539,7,8,Very good,0,Once a week,165,59,Female,1994,[NA] Not applicable
 926555,6,8,Very good,NA,Less than once a month,183,75,Male,1995,[NA] Not applicable
 926563,7,8,Fair,NA,Never,195,66,Male,1997,[NA] Not applicable
@@ -332,11 +332,11 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 926979,7,9,Very good,NA,Once a week,183,84,Male,1992,[NA] No answer
 926987,8,9,Very good,NA,Several times a week,162,64,Female,1950,[NA] Refusal
 926995,8,7,Very good,10,Once a week,178,95,Male,1986, Enhedslisten
-927006,7,6,Bad,NA,Less than once a month,167,72,Female,1967, Socialdemokraterne
+927006,7,6,Bad,NA,Less than once a month,167,72,Female,1967, Socialdemokrat
 927048,7,Extremely happy,Fair,NA,Less than once a month,160,75,Female,1985, Det Konservative Folkeparti
 927072,8,7,Good,NA,Several times a week,192,83,Male,1964," Venstre, Danmarks Liberale Parti"
 927098,9,8,Very good,NA,Several times a week,165,55,Female,1954, SF Socialistisk Folkeparti
-927111,4,4,Very bad,NA,Less than once a month,159,93,Female,1966, Socialdemokrat
+927111,4,4,Very bad,NA,Less than once a month,159,93,Female,1966, Socialdemokraterne
 927137,Most people can be trusted,Extremely happy,Very good,18,2-3 times a month,175,90,Male,1955, Enhedslisten
 927179,5,5,Good,NA,2-3 times a month,169,43,Female,1954,[NA] Don't know
 927187,3,9,Good,NA,Every day,162,65,Male,1927," Venstre, Danmarks Liberale Parti"
@@ -347,7 +347,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 927307,7,8,Good,7,Once a week,161,63,Female,1995,[NA] Not applicable
 927323,8,Extremely happy,Fair,NA,Once a week,172,87,Female,1967," Venstre, Danmarks Liberale Parti"
 927331,5,Extremely happy,Very good,NA,Never,181,NA,Female,1981," Venstre, Danmarks Liberale Parti"
-927349,5,8,Very good,10,Once a week,188,79,Male,1974, Socialdemokrat
+927349,5,8,Very good,10,Once a week,188,79,Male,1974, Socialdemokraterne
 927373,8,9,Good,NA,Less than once a month,172,72,Male,1987,[NA] Not applicable
 927381,7,8,Fair,NA,Every day,173,82,Male,1995, Dansk Folkeparti
 927399,2,7,Fair,25,Once a week,180,83,Male,1981,[NA] Not applicable
@@ -356,7 +356,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 927585,7,9,Good,NA,Once a month,175,84,Female,1986, Det Radikale Venstre
 927593,4,Extremely happy,Good,NA,Once a week,170,84,Male,1967, Socialdemokraterne
 927608,5,8,Very good,NA,2-3 times a month,165,66,Female,1979, Dansk Folkeparti
-927616,Most people can be trusted,9,Very good,NA,2-3 times a month,188,101,Male,1941, Socialdemokraterne
+927616,Most people can be trusted,9,Very good,NA,2-3 times a month,188,101,Male,1941, Socialdemokrat
 927624,8,8,Good,NA,Once a week,160,69,Female,1961, Det Radikale Venstre
 927632,5,9,Good,NA,Never,158,64,Female,1976,[NA] Not applicable
 927640,8,8,Very good,NA,Once a week,180,87,Female,1988, SF Socialistisk Folkeparti
@@ -371,10 +371,10 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 927959,8,9,Good,NA,Every day,157,61,Female,1964, Socialdemokraterne
 927967,8,8,Very good,0,Several times a week,175,82,Male,1967," Venstre, Danmarks Liberale Parti"
 927983,3,8,Fair,20,Once a month,164,54,Female,1989, Det Konservative Folkeparti
-928002,8,8,Fair,NA,Several times a week,146,48,Female,1935,Konservative
+928002,8,8,Fair,NA,Several times a week,146,48,Female,1935, Det Konservative Folkeparti
 928028,8,6,Very good,10,Several times a week,181,75,Male,1986, Det Radikale Venstre
 928044,7,2,Very bad,NA,Every day,170,59,Male,1937,[NA] Not applicable
-928060,8,8,Good,12,Never,168,95,Male,1985, Socialdemokraterne
+928060,8,8,Good,12,Never,168,95,Male,1985, Socialdemokrat
 928086,8,Extremely happy,Very good,NA,Several times a week,176,65,Female,1949, Liberal Alliance
 928094,4,8,Good,NA,Never,162,52,Female,1998,[NA] Not applicable
 928109,8,7,Good,NA,Once a week,168,67,Female,1964," Venstre, Danmarks Liberale Parti"
@@ -389,7 +389,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 928303,5,9,Very good,NA,Several times a week,178,73,Male,1969, Socialdemokraterne
 928311,9,6,Good,NA,Less than once a month,194,94,Male,1973, Det Konservative Folkeparti
 928345,6,7,Good,7,Several times a week,177,84,Male,1967, Liberal Alliance
-928361,9,8,Good,NA,Once a week,166,59,Female,1955, Socialdemokraterne
+928361,9,8,Good,NA,Once a week,166,59,Female,1955, Socialdemokrat
 928379,8,8,Very good,NA,Once a month,171,58,Female,1998,[NA] Not applicable
 928400,8,8,Good,NA,Once a week,167,61,Female,1969, Liberal Alliance
 928418,7,6,Fair,NA,Several times a week,187,80,Male,1997,[NA] Not applicable
@@ -398,7 +398,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 928492,5,6,Good,20,Once a week,162,80,Female,1968,[NA] Not applicable
 928515,7,8,Very good,NA,Several times a week,178,89,Male,1939," Venstre, Danmarks Liberale Parti"
 928565,4,Extremely happy,Very good,NA,2-3 times a month,178,88,Male,1982,[NA] Not applicable
-928573,8,8,Very good,NA,Never,168,68,Female,1936, Socialdemokraterne
+928573,8,8,Very good,NA,Never,168,68,Female,1936, Socialdemokrat
 928604,8,Extremely happy,Very good,2,Once a month,151,NA,Female,1940, Socialdemokraterne
 928646,7,6,Fair,NA,Once a month,161,70,Female,1959, Det Konservative Folkeparti
 928662,8,Extremely happy,Very good,NA,Once a week,176,68,Female,1973, Socialdemokraterne
@@ -445,11 +445,11 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 929391,8,9,Fair,NA,Several times a week,163,97,Female,1951," Venstre, Danmarks Liberale Parti"
 929406,7,Extremely happy,Fair,NA,Once a week,168,75,Male,1945," Venstre, Danmarks Liberale Parti"
 929414,7,8,Very good,20,Several times a week,171,60,Female,1997,[NA] Not applicable
-929448,Most people can be trusted,1,Good,NA,Less than once a month,172,NA,Male,1926, Socialdemokrat
+929448,Most people can be trusted,1,Good,NA,Less than once a month,172,NA,Male,1926, Socialdemokraterne
 929456,8,8,Fair,NA,Less than once a month,170,70,Female,1998,[NA] Not applicable
 929464,7,7,Good,NA,2-3 times a month,165,86,Female,1982, SF Socialistisk Folkeparti
 929472,5,8,Fair,20,Never,163,53,Female,1958, SF Socialistisk Folkeparti
-929480,7,Extremely happy,Very good,NA,2-3 times a month,169,66,Female,1958, Socialdemokrat
+929480,7,Extremely happy,Very good,NA,2-3 times a month,169,66,Female,1958, Socialdemokraterne
 929529,9,8,Good,15,Several times a week,164,77,Female,1969, Det Radikale Venstre
 929537,6,9,Very good,0,Several times a week,174,64,Male,1942," Venstre, Danmarks Liberale Parti"
 929545,8,7,Good,NA,Once a week,188,66,Male,1985," Venstre, Danmarks Liberale Parti"
@@ -461,7 +461,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 929668,5,7,Fair,NA,2-3 times a month,178,NA,Female,1970, Socialdemokraterne
 929676,9,8,Good,NA,Every day,180,72,Male,1939," Venstre, Danmarks Liberale Parti"
 929684,8,8,Good,17,Every day,185,72,Male,1931," Venstre, Danmarks Liberale Parti"
-929692,5,7,Very good,15,2-3 times a month,193,83,Male,1986, Socialdemokraterne
+929692,5,7,Very good,15,2-3 times a month,193,83,Male,1986, Socialdemokrat
 929707,5,8,Fair,NA,Less than once a month,180,96,Male,1947, Enhedslisten
 929749,9,8,Good,NA,2-3 times a month,170,85,Male,1969, Det Radikale Venstre
 929757,4,8,Good,20,Less than once a month,168,80,Male,1969,[NA] Not applicable
@@ -469,8 +469,8 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 929799,7,8,Very good,NA,Every day,197,110,Male,1953, Det Radikale Venstre
 929854,7,8,Very good,10,Once a week,176,71,Male,1992," Venstre, Danmarks Liberale Parti"
 929862,9,9,Good,NA,Several times a week,175,82,Male,1952, Det Radikale Venstre
-929870,9,Extremely happy,Very good,NA,Less than once a month,163,69,Female,1947,Konservative
-929919,6,Extremely happy,Good,NA,Several times a week,173,66,Female,1940, Socialdemokraterne
+929870,9,Extremely happy,Very good,NA,Less than once a month,163,69,Female,1947, Det Konservative Folkeparti
+929919,6,Extremely happy,Good,NA,Several times a week,173,66,Female,1940, Socialdemokrat
 929951,8,9,Very good,NA,Once a week,177,66,Female,1976, Det Radikale Venstre
 929977,4,8,Very good,15,2-3 times a month,175,75,Male,1985, Liberal Alliance
 929985,7,8,Good,0,Several times a week,172,76,Female,1969," Venstre, Danmarks Liberale Parti"
@@ -478,7 +478,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 930023,5,5,Fair,NA,Every day,185,67,Male,1946, SF Socialistisk Folkeparti
 930049,7,9,Good,NA,Once a month,175,64,Female,1997,[NA] Not applicable
 930057,8,Extremely happy,Very good,NA,Several times a week,173,58,Female,1968," Venstre, Danmarks Liberale Parti"
-930104,5,9,Bad,20,Several times a week,181,85,Male,1946, Det Konservative Folkeparti
+930104,5,9,Bad,20,Several times a week,181,85,Male,1946,Konservative
 930112,8,9,Very good,NA,Once a week,194,71,Male,1963," Venstre, Danmarks Liberale Parti"
 930154,4,7,Good,6,Once a month,182,81,Male,1988, Det Radikale Venstre
 930170,7,Extremely happy,Very good,9,Less than once a month,195,120,Male,1982, Det Radikale Venstre
@@ -487,7 +487,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 930227,7,8,Very good,0,2-3 times a month,170,73,Female,1973, Det Radikale Venstre
 930285,4,6,Fair,NA,Several times a week,177,76,Male,1977,[NA] Not applicable
 930293,You can't be too careful,4,Bad,10,Every day,160,42,Female,1945, Socialdemokraterne
-930316,4,1,Bad,10,Every day,174,75,Male,1947, Socialdemokraterne
+930316,4,1,Bad,10,Every day,174,75,Male,1947, Socialdemokrat
 930324,5,7,Very good,NA,Every day,168,85,Male,1941, Socialdemokraterne
 930332,8,9,Good,NA,Once a week,178,89,Male,1985,[NA] Don't know
 930374,9,9,Very good,NA,Several times a week,158,61,Female,1964, SF Socialistisk Folkeparti
@@ -509,7 +509,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 930780,7,9,Very good,NA,Once a week,204,112,Male,1983," Venstre, Danmarks Liberale Parti"
 930811,8,Extremely happy,Very good,NA,Several times a week,175,95,Male,1937, Det Konservative Folkeparti
 930829,7,9,Bad,NA,Once a week,185,116,Male,1958, Dansk Folkeparti
-930845,7,9,Good,NA,Once a month,174,96,Male,1976, Socialdemokrat
+930845,7,9,Good,NA,Once a month,174,96,Male,1976, Socialdemokraterne
 930853,5,8,Fair,NA,2-3 times a month,168,69,Female,1947," Venstre, Danmarks Liberale Parti"
 930879,7,9,Fair,NA,Several times a week,182,82,Male,1965," Venstre, Danmarks Liberale Parti"
 930887,8,8,Good,NA,2-3 times a month,192,84,Male,1979," Venstre, Danmarks Liberale Parti"
@@ -522,7 +522,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 931003,8,7,Good,NA,Once a week,168,74,Male,1980, Det Radikale Venstre
 931011,6,6,Good,NA,Never,184,78,Male,1978, Det Konservative Folkeparti
 931029,5,7,Good,15,Less than once a month,190,84,Male,1959, Enhedslisten
-931037,9,5,Good,10,2-3 times a month,180,86,Male,1961, Socialdemokraterne
+931037,9,5,Good,10,2-3 times a month,180,86,Male,1961, Socialdemokrat
 931087,9,9,Good,NA,Once a week,165,71,Female,1989," Venstre, Danmarks Liberale Parti"
 931095,2,6,Bad,NA,2-3 times a month,167,86,Female,1949," Venstre, Danmarks Liberale Parti"
 931118,8,7,Good,4,Several times a week,177,63,Female,1967," Venstre, Danmarks Liberale Parti"
@@ -535,11 +535,11 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 931249,3,8,Very good,NA,Several times a week,176,66,Male,1975, SF Socialistisk Folkeparti
 931281,5,7,Good,NA,2-3 times a month,186,83,Male,1988, Liberal Alliance
 931299,7,6,Good,15,Once a month,183,88,Male,1991, Enhedslisten
-931304,8,9,Good,NA,2-3 times a month,163,54,Female,1970, Socialdemokraterne
+931304,8,9,Good,NA,2-3 times a month,163,54,Female,1970, Socialdemokrat
 931320,7,8,Very good,20,Once a week,185,81,Male,1974," Venstre, Danmarks Liberale Parti"
 931338,8,8,Good,NA,Several times a week,175,53,Female,1965, Det Radikale Venstre
 931354,6,8,Good,0,Once a week,165,54,Male,1998,[NA] Not applicable
-931370,7,7,Fair,NA,Several times a week,162,84,Female,1939, Socialdemokrat
+931370,7,7,Fair,NA,Several times a week,162,84,Female,1939, Socialdemokraterne
 931396,5,8,Good,NA,Several times a week,167,50,Female,1930, Socialdemokraterne
 931419,7,Extremely happy,Good,4,Every day,175,72,Male,1951, Socialdemokraterne
 931435,8,9,Very good,NA,Once a week,181,70,Male,1976, Enhedslisten
@@ -560,7 +560,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 931736,9,Extremely happy,Very good,NA,Once a week,175,80,Female,1965, SF Socialistisk Folkeparti
 931744,7,7,Fair,10,Every day,172,57,Female,1953, SF Socialistisk Folkeparti
 931794,5,Extremely happy,Very good,NA,NA,NA,NA,Male,1990, Dansk Folkeparti
-931817,5,Extremely happy,Good,NA,Several times a week,167,65,Female,1945, Socialdemokrat
+931817,5,Extremely happy,Good,NA,Several times a week,167,65,Female,1945, Socialdemokraterne
 931825,7,9,Very good,NA,Once a month,173,74,Male,1994,[NA] Not applicable
 931833,8,9,Very good,NA,Once a week,184,70,Female,1993, SF Socialistisk Folkeparti
 931841,7,7,Very good,10,Several times a week,187,85,Male,1992,[NA] No answer
@@ -608,7 +608,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 932677,Most people can be trusted,9,Very good,NA,Never,185,80,Male,1953, SF Socialistisk Folkeparti
 932685,3,3,Bad,NA,NA,165,55,Female,1925,[NA] Not applicable
 932708,9,9,Good,NA,Several times a week,178,92,Male,1951," Venstre, Danmarks Liberale Parti"
-932716,3,8,Good,NA,Several times a week,166,71,Female,1940,Konservative
+932716,3,8,Good,NA,Several times a week,166,71,Female,1940, Det Konservative Folkeparti
 932724,5,9,Good,NA,Once a week,167,66,Female,1951, Socialdemokraterne
 932732,7,8,Fair,NA,2-3 times a month,174,88,Female,1968, Det Radikale Venstre
 932758,9,8,Good,NA,Once a week,165,51,Female,1926, Socialdemokraterne
@@ -622,7 +622,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 932910,8,8,Good,NA,Several times a week,180,66,Female,1956," Venstre, Danmarks Liberale Parti"
 932928,6,8,Very good,NA,Every day,185,94,Male,1950,[NA] Refusal
 932978,5,7,Fair,NA,Less than once a month,163,62,Female,1971, Dansk Folkeparti
-933005,7,Extremely happy,Very good,NA,Once a week,167,75,Female,1956, Socialdemokraterne
+933005,7,Extremely happy,Very good,NA,Once a week,167,75,Female,1956, Socialdemokrat
 933013,8,8,Good,NA,Less than once a month,191,97,Male,1972, Enhedslisten
 933021,9,8,Good,NA,Once a week,160,57,Female,1948, SF Socialistisk Folkeparti
 933039,8,8,Very good,NA,Once a month,172,72,Male,1965," Venstre, Danmarks Liberale Parti"
@@ -652,16 +652,16 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 933542,You can't be too careful,NA,NA,NA,NA,NA,NA,Female,1978,[NA] Not applicable
 933607,3,9,Very good,NA,Never,174,72,Female,1958,[NA] Not applicable
 933623,4,Extremely happy,Very good,NA,2-3 times a month,183,77,Female,1958," Venstre, Danmarks Liberale Parti"
-933649,8,8,Very good,5,Once a week,164,57,Female,1945, Socialdemokrat
+933649,8,8,Very good,5,Once a week,164,57,Female,1945, Socialdemokraterne
 933657,8,6,Fair,NA,Several times a week,173,108,Female,1969," Venstre, Danmarks Liberale Parti"
 933673,1,Extremely happy,Very good,12,Once a week,162,48,Female,1922," Venstre, Danmarks Liberale Parti"
-933704,9,9,Very good,NA,Several times a week,167,62,Female,1959, Socialdemokraterne
+933704,9,9,Very good,NA,Several times a week,167,62,Female,1959, Socialdemokrat
 933712,9,8,Very good,NA,Several times a week,187,86,Male,1965, Socialdemokraterne
 933738,8,9,Very good,NA,Several times a week,165,66,Female,1963," Venstre, Danmarks Liberale Parti"
 933835,7,9,Good,30,Once a week,176,85,Male,1973, Dansk Folkeparti
 933869,7,8,Fair,10,Once a month,176,65,Male,1990,[NA] Not applicable
 933893,9,8,Very good,NA,Once a week,182,70,Male,1990,[NA] Not applicable
-933908,3,8,Very good,NA,Several times a week,184,108,Male,1961, Socialdemokraterne
+933908,3,8,Very good,NA,Several times a week,184,108,Male,1961, Socialdemokrat
 933916,8,8,Good,20,Every day,165,57,Male,1965, Enhedslisten
 933924,Most people can be trusted,9,Very good,10,Less than once a month,174,80,Female,1974, SF Socialistisk Folkeparti
 933940,8,9,Very good,NA,2-3 times a month,185,75,Male,1945, Det Konservative Folkeparti
@@ -685,9 +685,9 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 934352,9,9,Very good,NA,2-3 times a month,182,70,Male,1985, Enhedslisten
 934360,2,5,Very good,NA,Less than once a month,160,75,Female,1930, Dansk Folkeparti
 934386,6,9,Very good,7,Every day,165,59,Female,1964, Dansk Folkeparti
-934433,8,8,Very good,4,Several times a week,170,76,Male,1953, Socialdemokrat
+934433,8,8,Very good,4,Several times a week,170,76,Male,1953, Socialdemokraterne
 934467,8,8,Good,NA,2-3 times a month,179,72,Female,1973, Socialdemokraterne
-934475,8,8,Very good,NA,Several times a week,178,84,Male,1985, Socialdemokrat
+934475,8,8,Very good,NA,Several times a week,178,84,Male,1985, Socialdemokraterne
 934483,8,7,Fair,NA,Once a month,160,57,Female,1940, Socialdemokraterne
 934491,9,8,Very good,NA,Several times a week,160,60,Female,1967," Venstre, Danmarks Liberale Parti"
 934522,8,9,Very good,NA,Every day,182,98,Male,1944, Andet
@@ -700,25 +700,25 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 934645,8,6,Fair,8,Once a month,169,65,Female,1948," Venstre, Danmarks Liberale Parti"
 934653,8,7,Very good,NA,Once a month,163,57,Female,1977, SF Socialistisk Folkeparti
 934661,5,9,Very good,NA,Several times a week,183,83,Male,1985, Dansk Folkeparti
-934695,7,9,Fair,NA,Once a week,162,62,Female,1919,Konservative
+934695,7,9,Fair,NA,Once a week,162,62,Female,1919, Det Konservative Folkeparti
 934700,5,Extremely happy,Good,NA,Several times a week,182,66,Male,1945," Venstre, Danmarks Liberale Parti"
 934726,4,Extremely happy,Very good,NA,Never,160,77,Female,1947, Socialdemokraterne
-934750,5,9,Very good,NA,Less than once a month,170,69,Male,1942, Socialdemokrat
+934750,5,9,Very good,NA,Less than once a month,170,69,Male,1942, Socialdemokraterne
 934784,5,8,Very good,5,Every day,174,90,Male,1985, SF Socialistisk Folkeparti
 934807,7,6,Fair,NA,Several times a week,188,112,Male,1975," Venstre, Danmarks Liberale Parti"
 934831,7,Extremely happy,Good,NA,Several times a week,177,85,Male,1951," Venstre, Danmarks Liberale Parti"
 934865,1,7,Very bad,NA,Never,168,56,Female,1986," Venstre, Danmarks Liberale Parti"
 934873,8,7,Good,NA,Never,170,75,Male,1973, Socialdemokraterne
-934881,Most people can be trusted,9,Fair,NA,Several times a week,166,76,Female,1951, Socialdemokraterne
+934881,Most people can be trusted,9,Fair,NA,Several times a week,166,76,Female,1951, Socialdemokrat
 934904,9,Extremely happy,Very good,NA,Every day,165,77,Male,1923, Socialdemokraterne
-934912,5,8,Fair,0,2-3 times a month,180,88,Male,1963, Det Konservative Folkeparti
-934938,8,9,Good,NA,Several times a week,166,75,Female,1964,Konservative
+934912,5,8,Fair,0,2-3 times a month,180,88,Male,1963,Konservative
+934938,8,9,Good,NA,Several times a week,166,75,Female,1964, Det Konservative Folkeparti
 934954,Most people can be trusted,7,Good,NA,Several times a week,170,68,Female,1965, Det Radikale Venstre
 934962,6,7,Good,NA,2-3 times a month,169,58,Female,1976,[NA] Refusal
 934970,8,9,Good,15,Several times a week,176,77,Female,1954," Venstre, Danmarks Liberale Parti"
 934988,7,8,Fair,5,Never,176,68,Female,1969,[NA] Don't know
 934996,8,Extremely happy,Good,NA,2-3 times a month,153,55,Male,1993," Venstre, Danmarks Liberale Parti"
-935007,9,8,Good,15,2-3 times a month,180,78,Male,1953, Det Konservative Folkeparti
+935007,9,8,Good,15,2-3 times a month,180,78,Male,1953,Konservative
 935057,8,8,Very good,20,Less than once a month,173,73,Male,1969, SF Socialistisk Folkeparti
 935099,8,8,Very good,NA,Every day,164,68,Female,1926," Venstre, Danmarks Liberale Parti"
 935104,5,Extremely happy,Very good,NA,Every day,172,84,Female,1960,[NA] Not applicable
@@ -726,7 +726,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 935138,3,8,Fair,NA,Several times a week,176,80,Male,1956, Dansk Folkeparti
 935170,3,Extremely happy,Bad,30,Never,189,87,Male,1976, SF Socialistisk Folkeparti
 935235,5,9,Good,NA,Less than once a month,164,67,Female,1981," Venstre, Danmarks Liberale Parti"
-935251,6,7,Good,NA,Once a week,190,93,Male,1991, Socialdemokraterne
+935251,6,7,Good,NA,Once a week,190,93,Male,1991, Socialdemokrat
 935269,3,6,Fair,8,Every day,164,52,Female,1936,[NA] Not applicable
 935285,8,Extremely happy,Very good,NA,Every day,180,70,Male,1923,[NA] Not applicable
 935316,7,Extremely happy,Very good,NA,Several times a week,172,63,Male,1978,[NA] Refusal
@@ -739,7 +739,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 935489,9,6,Good,NA,Several times a week,173,70,Male,1988, Det Radikale Venstre
 935502,9,8,Very good,20,Several times a week,179,82,Male,1971,[NA] Not applicable
 935536,7,9,Very good,NA,Once a month,182,92,Male,1976," Venstre, Danmarks Liberale Parti"
-935560,5,8,Very good,NA,Never,173,90,Female,1981, Socialdemokrat
+935560,5,8,Very good,NA,Never,173,90,Female,1981, Socialdemokraterne
 935586,4,4,Fair,10,2-3 times a month,175,63,Male,1961,[NA] Not applicable
 935594,4,8,Very good,NA,2-3 times a month,187,79,Male,1997,[NA] Not applicable
 935609,8,8,Good,NA,Less than once a month,170,66,Male,1978, Det Radikale Venstre
@@ -762,14 +762,14 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 935950,8,8,Good,NA,Once a week,162,74,Female,1949, Liberal Alliance
 935968,9,Extremely happy,Very good,NA,Several times a week,185,90,Male,1955," Venstre, Danmarks Liberale Parti"
 935976,7,8,Good,0,Never,165,67,Female,1926,[NA] Not applicable
-935984,8,7,Good,20,Several times a week,183,81,Male,1972, Socialdemokraterne
+935984,8,7,Good,20,Several times a week,183,81,Male,1972, Socialdemokrat
 936003,3,9,Very good,NA,Once a week,175,95,Male,1947,[NA] Not applicable
 936011,7,9,Good,NA,Several times a week,162,69,Female,1942, Dansk Folkeparti
 936037,8,3,Bad,NA,Never,187,84,Male,1968,[NA] Not applicable
 936053,8,9,Good,3,Several times a week,183,94,Male,1979,[NA] Refusal
 936079,5,7,Fair,NA,2-3 times a month,172,85,Female,1962, Det Radikale Venstre
 936087,8,7,Good,NA,Several times a week,177,61,Female,1973,[NA] Not applicable
-936095,7,8,Very good,NA,2-3 times a month,188,66,Male,1978, Det Konservative Folkeparti
+936095,7,8,Very good,NA,2-3 times a month,188,66,Male,1978,Konservative
 936100,8,Extremely happy,Very good,NA,Less than once a month,160,62,Female,1983,[NA] Not applicable
 936118,Most people can be trusted,9,Very good,NA,Several times a week,170,82,Female,1971, Socialdemokrat
 936134,7,9,Good,NA,Less than once a month,160,55,Female,1998,[NA] Not applicable
@@ -784,7 +784,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 936312,3,Extremely happy,Fair,NA,Several times a week,162,64,Female,1951, Socialdemokraterne
 936320,6,Extremely happy,Very good,20,Less than once a month,175,74,Male,1983, Det Radikale Venstre
 936346,6,9,Very good,NA,Once a month,186,80,Male,1993, Det Radikale Venstre
-936362,8,9,Good,NA,Every day,174,72,Male,1945, Socialdemokrat
+936362,8,9,Good,NA,Every day,174,72,Male,1945, Socialdemokraterne
 936370,8,Extremely happy,Fair,NA,Several times a week,167,72,Female,1950," Venstre, Danmarks Liberale Parti"
 936396,8,8,Fair,10,Once a week,168,78,Female,1963, Socialdemokraterne
 936427,8,Extremely happy,Very good,NA,2-3 times a month,164,61,Female,1948, SF Socialistisk Folkeparti
@@ -800,7 +800,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 936621,8,9,Very good,15,Several times a week,163,70,Female,1968," Venstre, Danmarks Liberale Parti"
 936655,5,Extremely happy,Good,NA,Less than once a month,170,68,Female,1997,[NA] Not applicable
 936663,7,7,Good,2,Once a week,180,92,Male,1977, Socialdemokraterne
-936697,8,8,Fair,NA,Several times a week,172,80,Male,1950, Socialdemokrat
+936697,8,8,Fair,NA,Several times a week,172,80,Male,1950, Socialdemokraterne
 936702,8,9,Good,NA,Every day,165,53,Female,1958, SF Socialistisk Folkeparti
 936710,9,Extremely happy,Very good,NA,Once a month,172,60,Female,1954, SF Socialistisk Folkeparti
 936728,8,9,Very good,NA,Once a week,183,91,Male,1969," Venstre, Danmarks Liberale Parti"
@@ -815,7 +815,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 936883,5,8,Good,NA,2-3 times a month,163,64,Female,1945," Venstre, Danmarks Liberale Parti"
 936906,6,8,Good,10,Every day,178,77,Male,1953, Dansk Folkeparti
 936922,8,9,Very good,NA,Several times a week,166,61,Female,1949, Socialdemokraterne
-936948,4,Extremely happy,Good,NA,Less than once a month,186,125,Male,1982, Socialdemokrat
+936948,4,Extremely happy,Good,NA,Less than once a month,186,125,Male,1982, Socialdemokraterne
 936956,7,8,Fair,NA,Once a month,179,90,Male,1941, Det Radikale Venstre
 936964,8,9,Very good,0,Several times a week,178,88,Male,1947, Det Konservative Folkeparti
 936980,7,8,Good,NA,Once a month,170,80,Male,1967, Dansk Folkeparti
@@ -826,7 +826,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 937059,4,8,Very good,19,Never,184,64,Male,1990,[NA] Not applicable
 937083,4,9,Very good,NA,Several times a week,185,80,Male,1972," Venstre, Danmarks Liberale Parti"
 937106,7,8,Fair,17,Less than once a month,168,68,Male,1994,[NA] Not applicable
-937114,8,8,Very good,NA,Once a month,172,61,Female,1981,Konservative
+937114,8,8,Very good,NA,Once a month,172,61,Female,1981, Det Konservative Folkeparti
 937148,5,8,Fair,NA,Once a week,169,120,Female,1959,[NA] Not applicable
 937172,8,9,Very good,2,Several times a week,168,60,Female,1982, Enhedslisten
 937180,8,8,Good,NA,Several times a week,170,82,Female,1971,[NA] Not applicable
@@ -834,9 +834,9 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 937245,8,9,Good,NA,2-3 times a month,165,65,Female,1963," Venstre, Danmarks Liberale Parti"
 937253,8,9,Good,NA,Several times a week,173,90,Female,1950, SF Socialistisk Folkeparti
 937261,You can't be too careful,9,Good,NA,Less than once a month,180,75,Female,1981, Det Konservative Folkeparti
-937318,8,9,Good,NA,Never,164,59,Female,1959, Socialdemokraterne
+937318,8,9,Good,NA,Never,164,59,Female,1959, Socialdemokrat
 937342,5,5,Very good,4,Several times a week,175,83,Male,1943, Dansk Folkeparti
-937368,4,Extremely happy,Fair,NA,Every day,162,104,Male,1948, Socialdemokrat
+937368,4,Extremely happy,Fair,NA,Every day,162,104,Male,1948, Socialdemokraterne
 937376,7,9,Good,NA,Several times a week,178,78,Male,1945," Venstre, Danmarks Liberale Parti"
 937384,8,8,Good,NA,2-3 times a month,183,89,Male,1975," Venstre, Danmarks Liberale Parti"
 937392,7,9,Very good,NA,Several times a week,170,80,Male,1955,[NA] Don't know
@@ -866,7 +866,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 937839,Most people can be trusted,Extremely happy,Very good,NA,Once a week,174,94,Male,1957, Socialdemokraterne
 937863,8,8,Very good,NA,Several times a week,187,66,Male,1967," Venstre, Danmarks Liberale Parti"
 937910,4,7,Good,20,Once a week,180,80,Male,1963, Liberal Alliance
-937928,8,9,Good,NA,Once a week,158,59,Female,1953, Socialdemokraterne
+937928,8,9,Good,NA,Once a week,158,59,Female,1953, Socialdemokrat
 937952,8,8,Fair,NA,Less than once a month,165,111,Female,1973, Socialdemokraterne
 937960,8,9,Good,NA,Once a month,179,82,Female,1954, Socialdemokraterne
 938005,9,9,Very good,NA,Once a week,177,73,Female,1988, Det Radikale Venstre
@@ -878,7 +878,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 938071,7,Extremely happy,Good,NA,Once a week,173,85,Female,1962," Venstre, Danmarks Liberale Parti"
 938102,5,Extremely happy,Very good,NA,Once a week,178,93,Male,1963," Venstre, Danmarks Liberale Parti"
 938110,8,9,Fair,15,Never,167,52,Male,1946," Venstre, Danmarks Liberale Parti"
-938128,5,8,Fair,NA,Once a week,172,81,Male,1946, Socialdemokrat
+938128,5,8,Fair,NA,Once a week,172,81,Male,1946, Socialdemokraterne
 938136,3,9,Very good,NA,Less than once a month,176,80,Female,1985, Dansk Folkeparti
 938160,7,8,Good,20,Every day,178,125,Male,1960,[NA] Refusal
 938178,5,8,Good,12,Less than once a month,161,106,Female,1991, Socialdemokraterne
@@ -899,7 +899,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 938461,8,8,Fair,NA,Less than once a month,189,80,Male,1973, Socialdemokraterne
 938479,8,3,Fair,NA,Several times a week,188,90,Male,1965, Det Konservative Folkeparti
 938487,5,8,Fair,NA,2-3 times a month,170,68,Male,1933,[NA] Refusal
-938495,8,8,Good,NA,Several times a week,178,99,Male,1945, Det Konservative Folkeparti
+938495,8,8,Good,NA,Several times a week,178,99,Male,1945,Konservative
 938534,6,Extremely happy,Very good,NA,Less than once a month,190,67,Male,1998,[NA] Not applicable
 938542,9,9,Very good,NA,Once a month,173,83,Male,1976, SF Socialistisk Folkeparti
 938550,8,9,Fair,NA,Once a week,178,85,Female,1979," Venstre, Danmarks Liberale Parti"
@@ -911,7 +911,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 938665,4,8,Very good,NA,2-3 times a month,173,65,Female,1996,[NA] Not applicable
 938681,8,7,Good,NA,Once a month,162,51,Female,1991, Enhedslisten
 938699,8,Extremely happy,Good,NA,Several times a week,176,64,Male,1933, Socialdemokraterne
-938704,Most people can be trusted,8,Fair,NA,Once a month,164,92,Female,1965, Socialdemokraterne
+938704,Most people can be trusted,8,Fair,NA,Once a month,164,92,Female,1965, Socialdemokrat
 938720,8,9,Fair,NA,Every day,165,70,Female,1965," Venstre, Danmarks Liberale Parti"
 938788,4,8,Good,NA,Several times a week,172,82,Male,1970," Venstre, Danmarks Liberale Parti"
 938843,8,7,Very good,NA,Once a month,170,64,Female,1978, SF Socialistisk Folkeparti
@@ -956,13 +956,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 939629,7,7,Good,NA,Less than once a month,166,67,Female,1954, SF Socialistisk Folkeparti
 939637,9,7,Very good,NA,Once a month,169,70,Female,1996,[NA] Not applicable
 939653,8,8,Good,NA,Several times a week,169,60,Female,1982, Enhedslisten
-939661,8,8,Good,4,Several times a week,168,57,Female,1962, Socialdemokraterne
-939700,9,9,Very good,NA,Once a week,179,78,Male,1973,Konservative
-939718,6,Extremely happy,Fair,NA,Once a month,158,67,Female,1936, Socialdemokraterne
+939661,8,8,Good,4,Several times a week,168,57,Female,1962, Socialdemokrat
+939700,9,9,Very good,NA,Once a week,179,78,Male,1973, Det Konservative Folkeparti
+939718,6,Extremely happy,Fair,NA,Once a month,158,67,Female,1936, Socialdemokrat
 939742,6,7,Bad,NA,Every day,176,71,Male,1947, Dansk Folkeparti
 939784,9,9,Very good,NA,Once a week,167,NA,Female,1956," Venstre, Danmarks Liberale Parti"
 939792,You can't be too careful,9,Fair,10,2-3 times a month,155,38,Female,1955,[NA] Refusal
-939807,7,8,Very good,NA,Once a month,163,62,Female,1954, Socialdemokraterne
+939807,7,8,Very good,NA,Once a month,163,62,Female,1954, Socialdemokrat
 939865,7,6,Fair,NA,2-3 times a month,179,53,Male,1997,[NA] Not applicable
 939873,5,7,Very good,18,Less than once a month,172,95,Male,1989,[NA] Not applicable
 939881,8,Extremely happy,Very good,NA,2-3 times a month,176,69,Female,1970,[NA] Not applicable
@@ -981,16 +981,16 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 940107,7,8,Good,4,2-3 times a month,180,74,Male,1995,[NA] Not applicable
 940149,5,5,Fair,NA,Every day,173,73,Male,1956, Socialdemokraterne
 940165,7,8,Good,NA,Once a week,164,68,Female,1938, Socialdemokraterne
-940173,8,Extremely happy,Good,NA,Once a month,168,90,Male,1932, Socialdemokrat
+940173,8,Extremely happy,Good,NA,Once a month,168,90,Male,1932, Socialdemokraterne
 940199,8,8,Good,NA,Once a week,169,65,Female,1962, Det Konservative Folkeparti
 940246,7,9,Very good,NA,2-3 times a month,176,95,Female,1960, SF Socialistisk Folkeparti
 940254,6,8,Very good,NA,Once a week,176,75,Male,1987," Venstre, Danmarks Liberale Parti"
-940288,8,8,Very good,NA,Once a week,168,62,Female,1954, Socialdemokraterne
+940288,8,8,Very good,NA,Once a week,168,62,Female,1954, Socialdemokrat
 940296,7,8,Very good,NA,Once a week,175,68,Male,1980, Socialdemokraterne
 940301,7,8,Good,NA,Once a week,180,79,Male,1957, Dansk Folkeparti
 940319,5,9,Good,NA,Once a week,165,70,Female,1976, SF Socialistisk Folkeparti
 940335,2,3,Good,NA,2-3 times a month,153,42,Female,1999,[NA] Not applicable
-940343,8,8,Good,NA,Several times a week,180,87,Male,1967, Socialdemokraterne
+940343,8,8,Good,NA,Several times a week,180,87,Male,1967, Socialdemokrat
 940351,5,4,Bad,5,Never,163,NA,Female,1979, SF Socialistisk Folkeparti
 940369,8,8,Good,NA,Several times a week,190,77,Male,1949, Enhedslisten
 940377,8,Extremely happy,Very bad,NA,Once a month,181,78,Male,1984, Det Radikale Venstre
@@ -1005,13 +1005,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 940539,7,9,Good,NA,Every day,177,80,Male,1933,[NA] Refusal
 940547,9,Extremely happy,Good,0,Several times a week,174,84,Male,1943," Venstre, Danmarks Liberale Parti"
 940571,8,9,Good,NA,Never,177,67,Male,1955, Enhedslisten
-940628,3,6,Very bad,20,Once a week,174,98,Male,1977,Konservative
+940628,3,6,Very bad,20,Once a week,174,98,Male,1977, Det Konservative Folkeparti
 940644,7,8,Good,NA,Never,164,60,Female,1964,[NA] Not applicable
 940652,5,9,Fair,10,Less than once a month,163,68,Female,1954," Venstre, Danmarks Liberale Parti"
 940660,5,9,Fair,NA,2-3 times a month,167,85,Female,1951, Dansk Folkeparti
 940678,6,8,Bad,NA,Less than once a month,151,53,Female,1950,[NA] Not applicable
 940686,6,8,Fair,NA,2-3 times a month,170,65,Female,1987, Det Radikale Venstre
-940694,8,8,Good,NA,Several times a week,183,95,Male,1977, Socialdemokrat
+940694,8,8,Good,NA,Several times a week,183,95,Male,1977, Socialdemokraterne
 940717,Most people can be trusted,8,Very good,NA,Several times a week,165,67,Female,1972, SF Socialistisk Folkeparti
 940725,8,Extremely happy,Very good,NA,Several times a week,158,70,Female,1954, Socialdemokraterne
 940733,8,8,Good,NA,Once a month,185,89,Male,1976," Venstre, Danmarks Liberale Parti"
@@ -1035,7 +1035,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 941103,2,1,Bad,10,Never,164,58,Female,1930,[NA] Not applicable
 941129,3,6,Fair,12,Several times a week,177,72,Male,1993, Det Radikale Venstre
 941153,4,6,Good,NA,Once a week,197,62,Male,1951, SF Socialistisk Folkeparti
-941179,3,3,Very bad,12,Never,165,89,Female,1952, Socialdemokrat
+941179,3,3,Very bad,12,Never,165,89,Female,1952, Socialdemokraterne
 941195,8,9,Good,NA,2-3 times a month,161,65,Male,1992, Dansk Folkeparti
 941200,8,9,Good,NA,2-3 times a month,185,95,Male,1985," Venstre, Danmarks Liberale Parti"
 941226,8,8,Good,NA,Several times a week,182,88,Male,1957, Det Radikale Venstre
@@ -1048,11 +1048,11 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 941365,7,9,Fair,NA,Never,157,121,Female,1960," Venstre, Danmarks Liberale Parti"
 941373,5,Extremely happy,Good,8,2-3 times a month,190,70,Male,1992,[NA] Not applicable
 941412,5,7,Fair,NA,Less than once a month,176,66,Female,1990," Venstre, Danmarks Liberale Parti"
-941420,8,Extremely happy,Fair,20,Once a week,159,53,Female,1945, Socialdemokraterne
+941420,8,Extremely happy,Fair,20,Once a week,159,53,Female,1945, Socialdemokrat
 941438,6,7,Very good,NA,Several times a week,177,70,Male,1958, Dansk Folkeparti
 941470,8,9,Good,1,Once a week,165,62,Female,1955, SF Socialistisk Folkeparti
 941501,6,Extremely happy,Good,10,Several times a week,176,64,Male,1937, Dansk Folkeparti
-941519,7,5,Bad,NA,Less than once a month,170,115,Female,1957, Socialdemokraterne
+941519,7,5,Bad,NA,Less than once a month,170,115,Female,1957, Socialdemokrat
 941535,3,9,Very good,NA,Once a week,169,52,Female,1988, Det Radikale Venstre
 941543,8,9,Good,NA,Once a week,178,75,Male,1975, Det Radikale Venstre
 941551,4,3,Bad,NA,Less than once a month,172,110,Male,1956," Venstre, Danmarks Liberale Parti"
@@ -1069,8 +1069,8 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 941763,6,9,Very good,NA,Less than once a month,189,86,Male,1998,[NA] Not applicable
 941771,8,7,Very good,NA,Several times a week,162,65,Female,1956, Enhedslisten
 941797,7,5,Bad,NA,Never,185,96,Male,1956, Dansk Folkeparti
-941802,7,Extremely happy,Very good,NA,Several times a week,156,59,Female,1942, Socialdemokrat
-941828,7,8,Very good,NA,Every day,175,90,Male,1945, Socialdemokrat
+941802,7,Extremely happy,Very good,NA,Several times a week,156,59,Female,1942, Socialdemokraterne
+941828,7,8,Very good,NA,Every day,175,90,Male,1945, Socialdemokraterne
 941844,9,6,Bad,NA,Never,182,61,Male,1926, Det Konservative Folkeparti
 941860,7,Extremely happy,Very good,NA,Less than once a month,164,57,Female,1979, Det Konservative Folkeparti
 941878,8,8,Good,NA,Several times a week,183,84,Male,1985, Det Radikale Venstre
@@ -1086,13 +1086,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 942036,7,9,Bad,NA,Several times a week,167,82,Female,1967, Enhedslisten
 942044,7,8,Fair,0,Several times a week,186,71,Male,1997,[NA] Not applicable
 942078,7,8,Good,1,Several times a week,182,90,Male,1975, Det Konservative Folkeparti
-942086,NA,9,Very good,15,Several times a week,176,70,Female,1962, Socialdemokrat
+942086,NA,9,Very good,15,Several times a week,176,70,Female,1962, Socialdemokraterne
 942094,8,8,Very good,NA,Less than once a month,173,83,Male,1929, Det Radikale Venstre
 942117,7,7,Good,NA,Several times a week,175,70,Female,1975, Det Radikale Venstre
 942141,7,8,Very good,15,Several times a week,169,NA,Female,1963, SF Socialistisk Folkeparti
 942175,2,Extremely unhappy,Very bad,30,Less than once a month,162,55,Female,1992," Venstre, Danmarks Liberale Parti"
 942183,5,6,Good,NA,Once a week,167,90,Female,1969, Socialdemokraterne
-942230,5,Extremely happy,Good,NA,Every day,184,87,Male,1947, Socialdemokrat
+942230,5,Extremely happy,Good,NA,Every day,184,87,Male,1947, Socialdemokraterne
 942248,8,8,Very good,5,Once a month,179,66,Male,1969, Socialdemokraterne
 942256,3,8,Very good,4,Never,163,62,Female,1946, Dansk Folkeparti
 942264,9,Extremely happy,Good,NA,2-3 times a month,162,68,Female,1988, Det Radikale Venstre
@@ -1109,11 +1109,11 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 942515,8,6,Fair,12,Once a week,180,84,Male,1958, Enhedslisten
 942531,9,8,Good,NA,Once a week,178,120,Male,1959," Venstre, Danmarks Liberale Parti"
 942557,9,8,Fair,6,Once a week,178,80,Female,1958, SF Socialistisk Folkeparti
-942565,9,9,Good,NA,Once a month,173,115,Female,1984, Socialdemokrat
+942565,9,9,Good,NA,Once a month,173,115,Female,1984, Socialdemokraterne
 942599,7,7,Very good,NA,2-3 times a month,174,62,Female,1957, Det Radikale Venstre
 942604,7,9,Very good,NA,2-3 times a month,175,81,Male,1969, Det Konservative Folkeparti
 942620,3,5,Fair,40,Less than once a month,176,58,Female,1967, Dansk Folkeparti
-942638,7,5,Good,NA,Once a week,169,57,Male,1978, Socialdemokrat
+942638,7,5,Good,NA,Once a week,169,57,Male,1978, Socialdemokraterne
 942662,8,7,Good,15,2-3 times a month,173,73,Female,1963, Dansk Folkeparti
 942701,6,5,Fair,NA,2-3 times a month,174,106,Female,1974, Socialdemokraterne
 942719,9,9,Very good,NA,Once a week,179,68,Female,1981," Venstre, Danmarks Liberale Parti"
@@ -1133,7 +1133,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 942947,9,8,Fair,NA,Several times a week,187,91,Male,1947, SF Socialistisk Folkeparti
 942955,8,9,Very good,NA,2-3 times a month,190,86,Male,1990,[NA] Not applicable
 942963,1,Extremely happy,Very good,NA,2-3 times a month,179,88,Male,1952, Liberal Alliance
-943008,7,9,Fair,NA,2-3 times a month,164,69,Female,1940, Socialdemokrat
+943008,7,9,Fair,NA,2-3 times a month,164,69,Female,1940, Socialdemokraterne
 943016,8,8,Good,10,Several times a week,176,78,Male,1961, SF Socialistisk Folkeparti
 943040,8,Extremely happy,Very good,NA,Several times a week,184,85,Male,1977, Det Radikale Venstre
 943058,9,8,Very good,NA,Several times a week,172,85,Male,1964,[NA] Not applicable
@@ -1146,13 +1146,13 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 943155,9,9,Fair,NA,Several times a week,164,82,Female,1950, Socialdemokraterne
 943171,8,8,Very good,NA,2-3 times a month,172,70,Male,1985, Enhedslisten
 943210,6,8,Good,NA,Several times a week,173,90,Male,1974," Venstre, Danmarks Liberale Parti"
-943236,1,Extremely happy,Good,NA,Once a month,160,57,Female,1946, Socialdemokraterne
+943236,1,Extremely happy,Good,NA,Once a month,160,57,Female,1946, Socialdemokrat
 943260,5,8,Bad,NA,Never,186,112,Male,1945, Socialdemokraterne
-943278,8,8,Fair,4,Once a month,171,58,Female,1974, Socialdemokrat
+943278,8,8,Fair,4,Once a month,171,58,Female,1974, Socialdemokraterne
 943286,4,7,Good,NA,Less than once a month,159,63,Female,1987, Enhedslisten
 943294,5,8,Fair,NA,Several times a week,180,82,Male,1958," Venstre, Danmarks Liberale Parti"
-943309,8,9,Good,NA,Every day,183,92,Male,1942, Socialdemokraterne
-943317,9,9,Very good,NA,Once a month,178,72,Male,1989, Socialdemokraterne
+943309,8,9,Good,NA,Every day,183,92,Male,1942, Socialdemokrat
+943317,9,9,Very good,NA,Once a month,178,72,Male,1989, Socialdemokrat
 943325,4,8,Good,NA,2-3 times a month,172,64,Female,1978,[NA] Not applicable
 943333,8,9,Fair,NA,Less than once a month,164,70,Female,1987, Dansk Folkeparti
 943341,4,7,Fair,7,Less than once a month,187,84,Male,1988,[NA] Not applicable
@@ -1172,7 +1172,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 943634,7,9,Good,NA,Several times a week,194,88,Male,1977," Venstre, Danmarks Liberale Parti"
 943642,5,7,Fair,NA,Once a week,162,70,Female,1957,[NA] Refusal
 943668,9,9,Very good,NA,Once a week,184,92,Male,1946," Venstre, Danmarks Liberale Parti"
-943684,6,9,Good,NA,Every day,172,68,Male,1929, Socialdemokraterne
+943684,6,9,Good,NA,Every day,172,68,Male,1929, Socialdemokrat
 943715,5,8,Good,NA,Once a month,168,65,Female,1946, Socialdemokraterne
 943749,5,9,Very good,NA,Never,148,54,Female,1964, Andet
 943757,7,8,Fair,NA,Less than once a month,174,103,Female,1971," Venstre, Danmarks Liberale Parti"
@@ -1181,7 +1181,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 943846,2,NA,Good,NA,Several times a week,178,76,Male,1945," Venstre, Danmarks Liberale Parti"
 943896,8,9,Very good,NA,Every day,171,76,Male,1941," Venstre, Danmarks Liberale Parti"
 943927,9,Extremely happy,Good,NA,Several times a week,176,65,Female,1950," Venstre, Danmarks Liberale Parti"
-943951,8,8,Very good,NA,2-3 times a month,173,63,Female,1970, Socialdemokraterne
+943951,8,8,Very good,NA,2-3 times a month,173,63,Female,1970, Socialdemokrat
 943969,8,8,Fair,NA,Every day,169,80,Male,1940," Venstre, Danmarks Liberale Parti"
 943985,8,7,Good,NA,Once a week,173,70,Male,1975, Enhedslisten
 943993,7,8,Good,NA,Every day,175,66,Male,1928, SF Socialistisk Folkeparti
@@ -1236,7 +1236,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 944931,7,8,Very good,4,2-3 times a month,171,74,Male,1990,[NA] Not applicable
 944949,8,9,Good,NA,Once a week,186,80,Male,1976, Det Radikale Venstre
 944999,7,7,Fair,NA,Every day,160,56,Female,1954," Venstre, Danmarks Liberale Parti"
-945018,8,8,Good,NA,Several times a week,186,104,Male,1957, Socialdemokrat
+945018,8,8,Good,NA,Several times a week,186,104,Male,1957, Socialdemokraterne
 945026,6,8,Good,NA,Less than once a month,167,61,Female,1955,[NA] Refusal
 945034,9,8,Good,NA,Less than once a month,173,60,Female,1942, Socialdemokraterne
 945042,6,8,Very good,NA,Once a week,180,82,Male,1962,[NA] Refusal
@@ -1266,9 +1266,9 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 945767,Most people can be trusted,9,Very good,6,Every day,168,54,Female,1954," Venstre, Danmarks Liberale Parti"
 945791,3,Extremely happy,Very good,NA,Once a week,172,80,Male,1935, Socialdemokraterne
 945806,Most people can be trusted,9,Very good,NA,Several times a week,181,79,Male,1964, Det Radikale Venstre
-945814,8,8,Very good,NA,2-3 times a month,163,57,Female,1985, Socialdemokrat
+945814,8,8,Very good,NA,2-3 times a month,163,57,Female,1985, Socialdemokraterne
 945822,8,8,Good,NA,Never,170,70,Male,1939, Dansk Folkeparti
-945830,3,Extremely happy,Very good,NA,Once a month,174,79,Female,1941, Socialdemokraterne
+945830,3,Extremely happy,Very good,NA,Once a month,174,79,Female,1941, Socialdemokrat
 945856,9,Extremely happy,Good,NA,Once a week,170,66,Male,1988, Liberal Alliance
 945872,7,9,Very good,NA,Once a month,163,64,Female,1976," Venstre, Danmarks Liberale Parti"
 945903,2,2,Fair,NA,Less than once a month,158,65,Female,1967, Enhedslisten
@@ -1301,7 +1301,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 946519,5,Extremely happy,Fair,NA,Less than once a month,173,70,Female,1998,[NA] Not applicable
 946527,8,NA,Bad,NA,Every day,177,66,Female,1932," Venstre, Danmarks Liberale Parti"
 946535,8,8,Good,NA,2-3 times a month,164,63,Female,1971, Socialdemokraterne
-946569,Most people can be trusted,9,Bad,NA,Several times a week,180,69,Female,1963, Socialdemokrat
+946569,Most people can be trusted,9,Bad,NA,Several times a week,180,69,Female,1963, Socialdemokraterne
 946585,8,Extremely happy,Good,NA,Several times a week,168,58,Female,1963, Socialdemokraterne
 946616,8,8,Very good,NA,Less than once a month,167,114,Female,1964, Dansk Folkeparti
 946624,8,8,Fair,NA,Several times a week,178,76,Male,1970, Andet
@@ -1312,7 +1312,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 946721,7,9,Very good,NA,Once a week,165,61,Female,1985, Det Radikale Venstre
 946747,3,8,Good,NA,Several times a week,168,76,Male,1938, Dansk Folkeparti
 946755,Most people can be trusted,9,Good,NA,Once a week,180,115,Male,1977,[NA] Not applicable
-946797,9,8,Good,NA,Several times a week,186,75,Male,1991, Socialdemokrat
+946797,9,8,Good,NA,Several times a week,186,75,Male,1991, Socialdemokraterne
 946810,5,8,Very good,NA,Once a week,180,78,Male,1989, Dansk Folkeparti
 946828,5,9,Very good,NA,Once a week,165,68,Male,1933, Det Radikale Venstre
 946836,8,8,Very good,NA,Several times a week,171,95,Female,1952, SF Socialistisk Folkeparti
@@ -1334,8 +1334,8 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 947159,6,7,Very good,NA,Less than once a month,171,67,Male,1994,[NA] Not applicable
 947167,8,Extremely happy,Good,NA,Never,173,78,Female,1957, Enhedslisten
 947214,Most people can be trusted,9,Good,NA,Less than once a month,178,57,Female,1986, SF Socialistisk Folkeparti
-947230,7,8,Very good,NA,2-3 times a month,162,59,Female,1968, Socialdemokrat
-947248,Most people can be trusted,Extremely happy,Very good,NA,2-3 times a month,169,61,Female,1977, Socialdemokraterne
+947230,7,8,Very good,NA,2-3 times a month,162,59,Female,1968, Socialdemokraterne
+947248,Most people can be trusted,Extremely happy,Very good,NA,2-3 times a month,169,61,Female,1977, Socialdemokrat
 947256,9,6,Very good,NA,Several times a week,170,73,Female,1948, Enhedslisten
 947272,5,4,Fair,NA,Several times a week,182,54,Male,1990, SF Socialistisk Folkeparti
 947280,3,6,Good,NA,2-3 times a month,183,82,Male,1981,[NA] Not applicable
@@ -1354,12 +1354,12 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 947515,Most people can be trusted,9,Good,5,Several times a week,172,62,Female,1958," Venstre, Danmarks Liberale Parti"
 947523,Most people can be trusted,Extremely happy,Good,NA,Once a week,170,72,Male,1927, Socialdemokraterne
 947557,8,8,Fair,NA,Less than once a month,159,108,Female,1980,[NA] Don't know
-947565,9,8,Good,NA,Several times a week,175,75,Male,1955, Socialdemokraterne
+947565,9,8,Good,NA,Several times a week,175,75,Male,1955, Socialdemokrat
 947612,7,8,Very good,3,Once a week,165,58,Female,1940," Venstre, Danmarks Liberale Parti"
 947638,Most people can be trusted,9,Good,NA,Several times a week,168,63,Female,1936, SF Socialistisk Folkeparti
 947646,Most people can be trusted,9,Very good,NA,Less than once a month,173,69,Female,1973, Enhedslisten
 947662,9,8,Very good,NA,2-3 times a month,182,65,Male,1968, SF Socialistisk Folkeparti
-947719,8,7,Fair,NA,Once a week,180,101,Male,1951, Socialdemokraterne
+947719,8,7,Fair,NA,Once a week,180,101,Male,1951, Socialdemokrat
 947735,7,8,Very good,NA,2-3 times a month,175,77,Male,1972," Venstre, Danmarks Liberale Parti"
 947751,6,8,Bad,NA,Every day,176,66,Male,1954, Dansk Folkeparti
 947769,8,9,Fair,NA,Several times a week,176,110,Female,1959," Venstre, Danmarks Liberale Parti"
@@ -1392,7 +1392,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 948341,7,8,Fair,NA,Never,177,68,Male,1963, Socialdemokrat
 948359,8,Extremely happy,Fair,NA,Once a week,177,75,Male,1928," Venstre, Danmarks Liberale Parti"
 948375,6,9,Very good,NA,Once a week,169,91,Male,1951, SF Socialistisk Folkeparti
-948383,8,Extremely happy,Good,NA,Once a week,173,72,Female,1958, Socialdemokraterne
+948383,8,Extremely happy,Good,NA,Once a week,173,72,Female,1958, Socialdemokrat
 948391,7,7,Good,NA,Less than once a month,176,63,Female,1995,[NA] Not applicable
 948406,7,8,Fair,NA,2-3 times a month,176,58,Male,1949," Venstre, Danmarks Liberale Parti"
 948414,7,8,Good,NA,Less than once a month,168,NA,Female,1974, Socialdemokraterne
@@ -1425,7 +1425,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 949004,6,9,Very good,10,Several times a week,180,65,Male,1963," Venstre, Danmarks Liberale Parti"
 949012,8,Extremely happy,Good,NA,Several times a week,186,93,Male,1939, Liberal Alliance
 949020,8,6,Good,NA,Once a week,178,66,Male,1962," Venstre, Danmarks Liberale Parti"
-949046,7,8,Good,NA,2-3 times a month,183,75,Male,1981, Socialdemokraterne
+949046,7,8,Good,NA,2-3 times a month,183,75,Male,1981, Socialdemokrat
 949054,9,Extremely happy,Very good,NA,2-3 times a month,166,71,Female,1939," Venstre, Danmarks Liberale Parti"
 949070,5,9,Very good,NA,2-3 times a month,167,95,Female,1983, Liberal Alliance
 949096,4,5,Very good,NA,Less than once a month,186,73,Male,1979," Venstre, Danmarks Liberale Parti"
@@ -1436,7 +1436,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 949193,8,9,Good,NA,Several times a week,186,82,Male,1993,[NA] Not applicable
 949208,7,9,Fair,NA,Less than once a month,178,73,Male,1994,[NA] Don't know
 949216,7,8,Very good,NA,Once a month,180,69,Male,1994,[NA] Not applicable
-949224,7,Extremely happy,Fair,NA,2-3 times a month,161,86,Female,1941, Socialdemokrat
+949224,7,Extremely happy,Fair,NA,2-3 times a month,161,86,Female,1941, Socialdemokraterne
 949258,8,9,Good,8,Every day,172,76,Male,1943, Dansk Folkeparti
 949274,8,7,Very good,NA,Several times a week,168,72,Female,1974, Det Konservative Folkeparti
 949305,9,Extremely happy,Fair,NA,Less than once a month,160,80,Female,1939, Socialdemokraterne
@@ -1444,7 +1444,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 949321,8,Extremely happy,Very good,1,2-3 times a month,176,77,Female,1972, Det Radikale Venstre
 949339,7,Extremely happy,Good,NA,Every day,181,77,Male,1930, Socialdemokrat
 949363,8,9,Very good,5,Once a week,165,63,Female,1952, Det Radikale Venstre
-949389,8,Extremely happy,Good,NA,2-3 times a month,164,60,Female,1927, Socialdemokrat
+949389,8,Extremely happy,Good,NA,2-3 times a month,164,60,Female,1927, Socialdemokraterne
 949397,7,8,Very good,NA,2-3 times a month,176,67,Male,1942, Dansk Folkeparti
 949436,8,9,Good,10,2-3 times a month,160,83,Female,1967, Enhedslisten
 949444,9,8,Very good,NA,Once a month,165,58,Female,1965, Enhedslisten
@@ -1460,7 +1460,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 949622,8,9,Very good,NA,2-3 times a month,167,95,Female,1955, Socialdemokrat
 949630,7,8,Very good,10,Several times a week,168,55,Female,1995,[NA] Not applicable
 949648,6,9,Bad,NA,Several times a week,195,110,Male,1980, Dansk Folkeparti
-949680,8,9,Fair,NA,Every day,174,81,Male,1936, Socialdemokrat
+949680,8,9,Fair,NA,Every day,174,81,Male,1936, Socialdemokraterne
 949703,7,9,Very good,NA,Once a week,186,89,Male,1969," Venstre, Danmarks Liberale Parti"
 949711,5,8,Good,NA,Once a month,165,88,Male,1927, Dansk Folkeparti
 949745,6,8,Very good,NA,Several times a week,190,83,Male,1957, SF Socialistisk Folkeparti
@@ -1483,7 +1483,7 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 950079,6,9,Very good,NA,Never,172,76,Male,1973, Dansk Folkeparti
 950095,8,9,Good,NA,Every day,180,85,Male,1947, Dansk Folkeparti
 950118,8,8,Good,NA,Several times a week,165,NA,Female,1965, Enhedslisten
-950134,9,9,Very good,NA,Less than once a month,170,52,Female,1960, Socialdemokraterne
+950134,9,9,Very good,NA,Less than once a month,170,52,Female,1960, Socialdemokrat
 950150,6,8,Good,NA,Several times a week,186,80,Male,1956, Det Konservative Folkeparti
 950184,8,8,Fair,20,2-3 times a month,167,109,Female,1960, Enhedslisten
 950192,9,8,Very good,NA,Several times a week,185,92,Male,1990," Venstre, Danmarks Liberale Parti"
@@ -1498,6 +1498,6 @@ idno,ppltrst,happy,health,cgtsday,alcfreq,height,weight,gndr,yrbrn,polpartvt
 950443,5,9,Very good,NA,Once a week,195,87,Male,1995,[NA] Not applicable
 950469,7,8,Good,NA,Several times a week,164,84,Female,1945, Socialdemokraterne
 950477,8,8,Good,NA,2-3 times a month,180,90,Male,1942," Venstre, Danmarks Liberale Parti"
-950493,5,9,Good,NA,Once a week,183,86,Male,1955, Socialdemokraterne
+950493,5,9,Good,NA,Once a week,183,86,Male,1955, Socialdemokrat
 950508,7,8,Very good,NA,Once a week,173,75,Male,1966," Venstre, Danmarks Liberale Parti"
 950516,3,Extremely happy,Very good,NA,2-3 times a month,168,75,Female,1942," Venstre, Danmarks Liberale Parti"

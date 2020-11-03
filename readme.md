@@ -8,6 +8,19 @@
 
 The workshop is cloned and modified from [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/).
 
+This workshop is part of [Support Workshops for Digital Literacy and Curriculum F20](https://github.com/edux-dk/support-workshops-f20).
+
+## Content
+
+The content consists of four notebooks:
+
+- `01_intro_data_data-management`: A brief introduction to the practice of data management
+- `02_python-data-management`: Example codes of various data management operations using Python
+- `03_R_data-management`: Example codes of various data management operations using R
+- `exercise_openrefine_ess`: An exercise in using OpenRefine for data management on a subset of ESS (European Social Survey)
+
+
+
 ## Schedule
 
 08.00-09.00: Support for installation and preparations for the workshop

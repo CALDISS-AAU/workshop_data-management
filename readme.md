@@ -48,7 +48,7 @@ Should you encounter any problems with installation and preparation, please show
 
 08.30-09.00: Support for installation and preparations for the workshop
 
-09.00-09.15: Data, data sets and data management
+09.00-09.15: Introduction: Data, data sets and data management
 
 09.15-09.25: What is OpenRefine?
 

@@ -6,9 +6,9 @@
 
 
 
-The workshop is cloned and modified from [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/).
-
 This workshop is part of [the competency development workshop series for Digital Curriculum 2021](https://digitalcurriculum.au.dk/course-information/).
+
+The workshop is cloned and modified from the Data Carpentry workshop: [OpenRefine for Social Science Data](https://datacarpentry.org/openrefine-socialsci/).
 
 
 
@@ -18,19 +18,19 @@ This workshop is part of [the competency development workshop series for Digital
 
 ### Installing OpenRefine
 
-OpenRefine is free to download from [the OpenRefine website](https://openrefine.org/download.html). There are versions for Windows, Mac and Linux. Note that the Windows version requires Java to be installed. Also note that unlike most software, there is not an installation file. You simply have to download files and extract the contents in some way (depending on your operating system).
+OpenRefine is free to download from [the OpenRefine website](https://openrefine.org/download.html). There are versions for Windows, Mac and Linux. Note that the Windows version requires Java to be installed. Also note that unlike most software, there is no installation file. You simply have to download the files and extract the contents in some way (depending on your operating system).
 
 OpenRefine runs via your default browser.
 
-Make sure to have OpenRefine downloaded on your computer before the workshop. Also please confirm that the program is working before attending the workshop.
+Make sure to have OpenRefine downloaded on your computer and confirm that it can launch before the workshop. 
 
-See the [setup instructions from Data Carpentry](https://datacarpentry.org/openrefine-socialsci/setup.html) for more detail.
+See the [setup instructions from Data Carpentry](https://datacarpentry.org/openrefine-socialsci/setup.html) for further details.
 
 
 
 ### Data used in the workshop
 
-The data for this workshop is a teaching version of the Studying African Farmer-Led Irrigation (SAFI) database. The SAFI dataset represents interviews of farmers in two countries in eastern sub-Saharan Africa (Mozambique and Tanzania). These interviews were conducted between November 2016 and June 2017 and probed household features (e.g. construction materials used, number of household members), agricultural practices (e.g. water usage), and assets (e.g. number and types of livestock).
+The data used for this workshop is a teaching version of the Studying African Farmer-Led Irrigation (SAFI) database. The SAFI dataset represents interviews of farmers in two countries in eastern sub-Saharan Africa (Mozambique and Tanzania). These interviews were conducted between November 2016 and June 2017 and probed household features (e.g. construction materials used, number of household members), agricultural practices (e.g. water usage), and assets (e.g. number and types of livestock).
 
 The data used in this workshop is a subset of the teaching version that has been intentionally ‘messed up’ for this lesson.
 
@@ -46,7 +46,7 @@ Should you encounter any problems with installation and preparation, please show
 
 ## Schedule
 
-08.00-09.00: Support for installation and preparations for the workshop
+08.30-09.00: Support for installation and preparations for the workshop
 
 09.00-09.15: Data, data sets and data management
 

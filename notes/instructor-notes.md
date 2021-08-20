@@ -4,6 +4,16 @@
 
 [TOC]
 
+## Preparations
+
+
+
+### Mac issues
+
+- If user cannot unpack OpenRefine DMG file, go to system settings --> General and unlock administrator rights (padlock icon in the bottom)
+  - Then the option to "Open anyway" should appear in the same window
+- Repeat steps for the OpenRefine app itself, if necessary
+
 
 
 ## Introduction
